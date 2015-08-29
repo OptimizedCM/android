@@ -1,15 +1,15 @@
-TeslaOS
+OptimizedCM
 ===========
 
 Getting Started
 ---------------
 
-To get started with Android/Tesla OS, you'll need to get
+To get started with Android/OptimizedCM, you'll need to get
 familiar with [Repo](https://source.android.com/source/using-repo.html) and [Version Control with Git](https://source.android.com/source/version-control.html).
 
 To initialize your local repository using the TeslaOS trees, use a command like this:
 
-    repo init -u git://github.com/TeslaOS/android.git -b lp5.1
+    repo init -u git://github.com/OptimizedCM/android.git -b lp5.1
 
 Then to sync up:
 
